@@ -8,3 +8,5 @@
 [ELIF]-Opcional , podem ser utilizados *.
 [ELSE]-Opcional, e apenas 1. 
 
+FOR & WHILE
+

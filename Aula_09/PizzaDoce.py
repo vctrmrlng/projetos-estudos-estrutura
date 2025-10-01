@@ -11,10 +11,10 @@ class PizzaDoce(PizzaPadrao):
 
 #Criando objetos
 
-pizza_calabresa = PizzaPadrao('Calabresa' , 'Família' , 29.90 , 'Tomate, cebola')
-pizza_chocolate = PizzaDoce ('Chocolate com Morango' , 'Pequena' , 31.90 , 'Chocolate, Morango' ,  "Chocolate")
+# pizza_calabresa = PizzaPadrao('Calabresa' , 'Família' , 29.90 , 'Tomate, cebola')
+# pizza_chocolate = PizzaDoce ('Chocolate com Morango' , 'Pequena' , 31.90 , 'Chocolate, Morango' ,  "Chocolate")
 
-print(f" --- Pizza Comum ---")
-pizza_calabresa.mostrar_detalhes()
-print(f" --- Pizza Doce ---")
-pizza_chocolate.mostrar_detalhes()
+# print(f" --- Pizza Comum ---")
+# pizza_calabresa.mostrar_detalhes()
+# print(f" --- Pizza Doce ---")
+# pizza_chocolate.mostrar_detalhes()

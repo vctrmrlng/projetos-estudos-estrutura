@@ -5,7 +5,7 @@
 
 ## ESTRUTURAS CONDICIONAIS
 [IF]-Obrigatório, e apenas 1.
-[ELIF]-Opcional , podem ser utilizados *.
+[ELIF]-Opcional , podem ser utilizados varios.
 [ELSE]-Opcional, e apenas 1. 
 
 FOR & WHILE
